@@ -11,7 +11,7 @@ Include the script in your HTML file.
 ### Usage
 
 ```
-nocors(api_url', function(data){
+nocors(api_url, function(data){
 	console.log(data);
 })
 
