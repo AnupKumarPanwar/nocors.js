@@ -7,6 +7,10 @@ A javascript libraray to bypass **cross-origin request blocked** error on GET Re
 Include the script in your HTML file.
 ```<script src="nocors.js"></script>```
 
+OR
+
+Use the RawGit CDN 
+```<script src="https://cdn.rawgit.com/AnupKumarPanwar/nocors.js/539baf4e/nocors.js"></script>```
 
 ### Usage
 
