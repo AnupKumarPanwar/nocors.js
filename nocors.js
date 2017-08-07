@@ -1,0 +1,1 @@
+function nocors(e,t,n){var a=new XMLHttpRequest;a.onreadystatechange=function(){a.readyState===XMLHttpRequest.DONE&&(200===a.status?t&&t(JSON.parse(a.responseText)):n&&n(a))},a.open("GET","http://cors-anywhere.herokuapp.com/"+e,!0),a.send()}
